@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arseniy%20%2F%20Deci1337&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Agents%20%7C%20Automation%20%7C%20Hackathon%20Fighter&descAlignY=52&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,50:7b1a2a,100:4a0010&height=180&section=header&text=Arseniy%20%2F%20Deci1337&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Agents%20%7C%20Automation%20%7C%20Hackathon%20Fighter&descAlignY=52&descSize=16" />
 </div>
 
 <div align="center">
@@ -35,7 +35,7 @@ class Arseniy:
     motto     = "Be patient and everything will come."
     focus     = ["AI Agents", "Automation", "Hackathons"]
     languages = ["Python", "C#", "C++", "JavaScript", "Lua", "HTML", "XAML", "XML"]
-    tools     = ["n8n", "RAG", "OpenAI", "Claude", "YandexGPT", "GigaChat", "NAUI", "Docker", "React", "Node.js"]
+    tools     = ["n8n", "RAG", "OpenAI", "Claude", "YandexGPT", "GigaChat", "MAUI", "Docker", "React", "Node.js"]
     interests = ["AI for Business", "Process Automation", "Applied ML"]
 ```
 
@@ -71,8 +71,8 @@ class Arseniy:
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![YandexGPT](https://img.shields.io/badge/YandexGPT-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
-![GigaChat](https://img.shields.io/badge/GigaChat-005FF9?style=for-the-badge&logo=sberbank&logoColor=white)
-![NAUI](https://img.shields.io/badge/NAUI-6B46C1?style=for-the-badge&logoColor=white)
+![GigaChat](https://img.shields.io/badge/GigaChat-21A038?style=for-the-badge&logo=sber&logoColor=white)
+![MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Databases**
 
@@ -93,10 +93,7 @@ class Arseniy:
     <td width="33%">
       <h3 align="center">📧 AI Email Assistant</h3>
       <p align="center">
-        ИИ-ассистент для обработки и генерации деловой переписки.<br/><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white"/>
-        <br/><br/>
+        AI assistant for processing and generating business correspondence.<br/><br/>
         <a href="https://t.me/unrealveliky/61">
           <img src="https://img.shields.io/badge/Demo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
         </a>
@@ -105,22 +102,16 @@ class Arseniy:
     <td width="33%">
       <h3 align="center">💰 Finance AI Assistant</h3>
       <p align="center">
-        Кросс-платформенный финансовый ИИ-ассистент.<br/><br/>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white"/>
-        <br/><br/>
+        Cross-platform financial AI assistant.<br/><br/>
         <a href="https://t.me/unrealveliky/62">
           <img src="https://img.shields.io/badge/Demo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
         </a>
       </p>
     </td>
     <td width="33%">
-      <h3 align="center">🔍 Smart Search (Портал Поставщиков)</h3>
+      <h3 align="center">🔍 Smart Search (Moscow Supplier Portal)</h3>
       <p align="center">
-        Умный ИИ-поиск для Портала Поставщиков Москвы.<br/><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RAG-EA4B71?style=flat-square"/>
-        <br/><br/>
+        AI-powered smart search for the Moscow Supplier Portal.<br/><br/>
         <a href="https://t.me/unrealveliky/90">
           <img src="https://img.shields.io/badge/Demo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
         </a>
@@ -136,10 +127,7 @@ class Arseniy:
     <td width="50%">
       <h3 align="center">🛒 AI Agent — Online Shop Automation</h3>
       <p align="center">
-        Полная автоматизация онлайн-магазина с помощью ИИ-агента.<br/><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-        <br/><br/>
+        Full automation of an online store powered by an AI agent.<br/><br/>
         <a href="https://t.me/unrealveliky/93">
           <img src="https://img.shields.io/badge/Demo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
         </a>
@@ -148,10 +136,7 @@ class Arseniy:
     <td width="50%">
       <h3 align="center">🎧 Tech Support Agent + RAG</h3>
       <p align="center">
-        ИИ-агент техподдержки с базой знаний (RAG).<br/><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/RAG-EA4B71?style=flat-square"/>
-        <br/><br/>
+        AI support agent with a knowledge base (RAG).<br/><br/>
         <a href="https://t.me/unrealveliky/95">
           <img src="https://img.shields.io/badge/Demo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
         </a>
@@ -162,17 +147,15 @@ class Arseniy:
     <td width="50%">
       <h3 align="center">🎵 TikTok AI Agent</h3>
       <p align="center">
-        ИИ-агент для автоматизации работы с TikTok.<br/><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Automation-F05032?style=flat-square"/>
+        AI agent for automating TikTok workflows.<br/><br/>
+        <img src="https://img.shields.io/badge/No%20Demo%20Yet-555555?style=for-the-badge&logoColor=white"/>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📢 News Posting Agent</h3>
+      <h3 align="center">📢 Telegram Moderator + News Posting Agent</h3>
       <p align="center">
-        ИИ-агент модератор Telegram + автопостинг новостей.<br/><br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
+        AI moderator bot and automated news posting agent for Telegram.<br/><br/>
+        <img src="https://img.shields.io/badge/No%20Demo%20Yet-555555?style=for-the-badge&logoColor=white"/>
       </p>
     </td>
   </tr>
@@ -185,18 +168,14 @@ class Arseniy:
     <td width="33%">
       <h3 align="center">🏫 Family School Website</h3>
       <p align="center">
-        Сайт для семейной школы.<br/><br/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        Website for a family-run school.<br/><br/>
+        <img src="https://img.shields.io/badge/No%20Demo%20Yet-555555?style=for-the-badge&logoColor=white"/>
       </p>
     </td>
     <td width="33%">
       <h3 align="center">🎮 Skin Changer (Reverse Eng.)</h3>
       <p align="center">
-        Скинчейнджер через Reverse Engineering.<br/><br/>
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/>
-        <br/><br/>
+        Skin changer built via reverse engineering.<br/><br/>
         <a href="https://t.me/unrealveliky/74">
           <img src="https://img.shields.io/badge/Demo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
         </a>
@@ -205,9 +184,7 @@ class Arseniy:
     <td width="33%">
       <h3 align="center">🔐 Offline Encrypted Messenger</h3>
       <p align="center">
-        Мессенджер с шифрованием, ретрансляцией и voice/video.<br/><br/>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-        <br/><br/>
+        Messenger with encryption, relay and voice/video calls.<br/><br/>
         <a href="https://t.me/unrealveliky/84">
           <img src="https://img.shields.io/badge/Demo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
         </a>
@@ -247,5 +224,5 @@ class Arseniy:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0010,50:7b1a2a,100:3d0000&height=100&section=footer"/>
 </div>
