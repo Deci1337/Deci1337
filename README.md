@@ -25,7 +25,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2d2d2d&height=60&text=✦%20VIBECODE%20SENIOR%2B%20✦&fontSize=26&fontColor=FFD700&fontAlignY=65&animation=shimmer&desc=&stroke=FFD700&strokeWidth=1" />
+  <img src="vibecode.svg" alt="VIBECODE SENIOR+" />
 </div>
 
 <br/>
