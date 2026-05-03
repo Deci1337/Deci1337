@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,50:7b1a2a,100:4a0010&height=180&section=header&text=Arseniy%20%2F%20Deci1337&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Agents%20%7C%20Automation%20%7C%20Hackathon%20Fighter&descAlignY=52&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,50:7b1a2a,100:4a0010&height=180&section=header&text=Arseniy%20%2F%20Deci1337&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Agents%20%7C%20Automation%20%7C%20Developer&descAlignY=52&descSize=16" />
 </div>
 
 <div align="center">
@@ -20,6 +20,12 @@
   <a href="https://github.com/Deci1337">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=400&lines=VIBECODE+SENIOR%2B" alt="VIBECODE SENIOR+" />
 </div>
 
 <br/>
@@ -86,7 +92,7 @@ class Arseniy:
 
 ## 🤖 AI & Automation Projects
 
-### ⏰ AI, Автоматизация
+### ⏰ AI, Automation
 
 <table>
   <tr>
