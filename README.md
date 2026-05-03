@@ -25,7 +25,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=400&lines=VIBECODE+SENIOR%2B" alt="VIBECODE SENIOR+" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:2d2d2d&height=60&text=✦%20VIBECODE%20SENIOR%2B%20✦&fontSize=26&fontColor=FFD700&fontAlignY=65&animation=shimmer&desc=&stroke=FFD700&strokeWidth=1" />
 </div>
 
 <br/>
