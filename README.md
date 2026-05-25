@@ -38,6 +38,7 @@
 class Arseniy:
     name      = "Arseniy"
     alias     = "Deci1337"
+    focused   = "ИИ-агенты внутреннего контура"
     motto     = "Be patient and everything will come."
     focus     = ["AI Agents", "Automation", "Hackathons"]
     languages = ["Python", "C#", "C++", "JavaScript", "Lua", "HTML", "XAML", "XML"]
@@ -47,11 +48,12 @@ class Arseniy:
 
 > 🇷🇺 Делаю ИИ-агентов бизнесам. И да, я убеждён, что будущее за ними.
 > Я работаю в B2B — и давно привык отвечать за результат, а не продавать воздух. Качество == успех.
-> Жилка предпринимателя, по профессии разработчик. Я веду соцсети, качаю медийку. Без софтскилов в IT не протянуть.
+> Веду медийку, ищите везде по тегам @ Deci1337
 
 > 🇬🇧 I build AI agents for businesses. Convinced the next decade belongs to them.
 > B2B-focused — I've been in it long enough to know the difference between selling results and selling promises.
 > Entrepreneur by nature, developer by trade. Active on social media, big on soft skills — they matter more in tech than people admit.
+> Find me: @ Deci1337
 
 ---
 
