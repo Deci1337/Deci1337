@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=560&lines=AI+Agent+Developer;Automation+%26+n8n+Expert;Python+%2F+C%23+%2F+React;Building+cool+things+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B1A2A&center=true&vCenter=true&width=560&lines=AI+Agent+Developer;Automation+%26+n8n+Expert;Python+%2F+C%23+%2F+React;Building+cool+things+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -26,6 +26,12 @@
 
 <div align="center">
   <img src="vibecode.svg" alt="VIBECODE SENIOR+" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="money-counter.svg" alt="Money Counter" />
 </div>
 
 <br/>
@@ -132,6 +138,19 @@ class Arseniy:
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="3">
+      <h3 align="center">🏛️ TenderHack SPB — Мониторинг цен для госзакупок (НМЦК)</h3>
+      <p align="center">
+        Параллельный парсинг WB / Ozon / ЯМ / рунета с локальной LLM-нормализацией запросов (Qwen3-4B).<br/>
+        Расчёт НМЦК через медианный алгоритм, stealth-scraping без VPN, поддержка 10 регионов.<br/>
+        Стек: Python · FastAPI · React · Node.js · Playwright · Docker<br/><br/>
+        <a href="https://github.com/Deci1337/TenderHack-SPB">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ### 💼 AI Agents for Business
@@ -202,6 +221,29 @@ class Arseniy:
         <a href="https://t.me/unrealveliky/84">
           <img src="https://img.shields.io/badge/Demo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
         </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <h3 align="center">🌐 Личный сайт — EkaterinaSovet</h3>
+      <p align="center">
+        Лендинговый сайт для практикующего психолога: запись на консультацию, портфолио.<br/><br/>
+        <img src="https://img.shields.io/badge/No%20Demo-555555?style=for-the-badge&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">🕹️ ИИ-агент модератор анкет в TG</h3>
+      <p align="center">
+        Автоматическая модерация игровых заявок: классификация, верификация и решение о допуске.<br/><br/>
+        <img src="https://img.shields.io/badge/No%20Demo-555555?style=for-the-badge&logoColor=white"/>
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">📰 ИИ-агент кросспостинг новостей</h3>
+      <p align="center">
+        Мониторинг источников, рерайт под каждую площадку и автопубликация по расписанию.<br/><br/>
+        <img src="https://img.shields.io/badge/No%20Demo-555555?style=for-the-badge&logoColor=white"/>
       </p>
     </td>
   </tr>
