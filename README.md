@@ -44,9 +44,9 @@
 class Arseniy:
     name      = "Arseniy"
     alias     = "Deci1337"
-    focused   = "ИИ-агенты внутреннего контура"
+    focus     = "ИИ-агенты внутреннего контура"
     motto     = "Be patient and everything will come."
-    focus     = ["AI Agents", "Automation", "Hackathons"]
+    top-3     = ["AI Agents", "Automation", "Hackathons"]
     languages = ["Python", "C#", "C++", "JavaScript", "Lua", "HTML", "XAML", "XML"]
     tools     = ["n8n", "RAG", "OpenAI", "Claude", "YandexGPT", "GigaChat", "MAUI", "Docker", "React", "Node.js"]
     interests = ["AI for Business", "Process Automation", "Applied ML"]
