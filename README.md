@@ -53,8 +53,8 @@ class Arseniy:
 ```
 
 > 🇷🇺 Делаю ИИ-агентов бизнесам. И да, я убеждён, что будущее за ними.
-> Я работаю в B2B — и давно привык отвечать за результат, а не продавать воздух. Качество == успех.
-> Веду медийку, ищите везде по тегам @ Deci1337
+> Я работаю в B2B — и давно привык отвечать за результат, а не продавать воздух. Девиз: качество == успех.
+> Веду социальные сети, меня можно найти везде по тегу: @ Deci1337
 
 > 🇬🇧 I build AI agents for businesses. Convinced the next decade belongs to them.
 > B2B-focused — I've been in it long enough to know the difference between selling results and selling promises.
