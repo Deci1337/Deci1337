@@ -25,6 +25,23 @@
 <br/>
 
 <div align="center">
+  <a href="https://github.com/Deci1337/Classworks-IT-MISIS-Spring">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0000,16:ff8800,33:ffee00,50:00cc00,67:0099ff,84:8800ff,100:ff00cc&height=52&text=Практики%20ООП%20·%20Весна%202026%20·%20МИСИС&fontSize=20&fontColor=ffffff&fontAlignY=50" alt="Практики ООП Весна 2026 МИСИС" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/Deci1337/Classworks-IT-MISIS-Spring">
+    <img src="https://img.shields.io/badge/Classworks--IT--MISIS--Spring-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+
+<div align="center">
   <img src="vibecode.svg" alt="VIBECODE SENIOR+" />
 </div>
 
