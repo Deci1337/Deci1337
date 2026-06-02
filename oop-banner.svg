@@ -1,0 +1,19 @@
+<svg width="520" height="60" viewBox="0 0 520 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rb" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#ff0000"/>
+      <stop offset="16%"  stop-color="#ff8800"/>
+      <stop offset="33%"  stop-color="#ffee00"/>
+      <stop offset="50%"  stop-color="#00cc00"/>
+      <stop offset="67%"  stop-color="#0099ff"/>
+      <stop offset="84%"  stop-color="#8800ff"/>
+      <stop offset="100%" stop-color="#ff00cc"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="516" height="56" rx="8" fill="#0d1117" stroke="url(#rb)" stroke-width="4"/>
+  <text x="260" y="30" text-anchor="middle" dominant-baseline="middle"
+        font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="bold"
+        fill="white" stroke="black" stroke-width="2" paint-order="stroke">
+    Практики ООП · Весна 2026 · МИСИС
+  </text>
+</svg>
