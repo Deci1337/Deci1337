@@ -24,21 +24,7 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/Deci1337/Classworks-IT-MISIS-Spring">
-    <img src="oop-banner.svg" alt="Практики ООП Весна 2026 МИСИС" />
-  </a>
-</div>
 
-<br/>
-
-<div align="center">
-  <a href="https://github.com/Deci1337/Classworks-IT-MISIS-Spring">
-    <img src="https://img.shields.io/badge/Classworks--IT--MISIS--Spring-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br/>
 
 
 
