@@ -28,6 +28,7 @@
 
 
 
+
 <div align="center">
   <img src="vibecode.svg" alt="VIBECODE SENIOR+" />
 </div>
