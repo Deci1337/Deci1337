@@ -48,11 +48,11 @@
 class Arseniy:
     name      = "Arseniy"
     alias     = "Deci1337"
-    focus     = "ИИ-агенты внутреннего контура"
+    focus     = "ИИ-агенты для внутреннего контура/мебельного производства"
     motto     = "Be patient and everything will come."
     top-3     = ["AI Agents", "Automation", "Hackathons"]
     languages = ["Python", "C#", "C++", "JavaScript", "Lua", "HTML", "XAML", "XML"]
-    tools     = ["n8n", "RAG", "OpenAI", "Claude", "YandexGPT", "GigaChat", "MAUI", "Docker", "React", "Node.js"]
+    tools     = ["n8n", "RAG", "OpenAI", "Claude (of course)", "DeepSeek", "JAX", "Playwright", "Certbot", "WireGuard", "nginx", "OpenSERP", "firecrawl ", "YandexGPT", "GigaChat", "MAUI", "Docker", "React", "Node.js".....]
     interests = ["AI for Business", "Process Automation", "Applied ML"]
 ```
 
