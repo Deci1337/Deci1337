@@ -110,7 +110,7 @@ class Arseniy:
 
 ---
 
-## 🤖 AI & Automation Projects
+## 🤖 AI & Automation Projects (PET projects & hackathons)
 
 ### ⏰ AI, Automation
 
