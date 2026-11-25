@@ -1,5 +1,6 @@
 """Design tokens + text-to-outline helpers shared by build_assets.py and activity.py."""
 from pathlib import Path
+import html
 import re
 import urllib.request
 
@@ -119,6 +120,7 @@ def wrap(font, s, size, max_w):
 def svg(w, h, body, label):
     defs = "".join(f'<path id="{k}" d="{v}"/>' for k, v in DEFS.items())
     DEFS.clear()
+    label = html.escape(label)
     return (
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" '
         f'viewBox="0 0 {w} {h}" role="img" aria-label="{label}">'

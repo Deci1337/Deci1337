@@ -259,13 +259,19 @@ def project(tag, title, body, chips):
 
 # ---------- stack ----------
 STACK = [
-    ("AI and agents", [("Oa", "OpenAI API"), ("Cl", "Claude"), ("Ya", "YandexGPT"), ("Gc", "GigaChat"),
-                     ("Rg", "RAG"), ("Ch", "ChromaDB"), ("Mc", "MCP"), ("Sk", "Spec Kit"), ("Sa", "Subagents")]),
-    ("Backend", [("Py", "Python"), ("Fa", "FastAPI"), ("Ce", "Celery"), ("Pg", "PostgreSQL"), ("Rd", "Redis"),
-                 ("Sq", "SQLAlchemy"), ("Al", "Alembic"), ("Ag", "aiogram")]),
+    ("Agent engineering", [("Hr", "Harness engineering"), ("Sa", "Subagent orchestration"), ("Mc", "MCP servers"),
+                           ("Sh", "Skills & hooks"), ("Sk", "Spec Kit"), ("Tb", "Token budgeting")]),
+    ("LLM APIs", [("Cl", "Claude API"), ("Oa", "OpenAI API"), ("Ds", "DeepSeek API"), ("Gl", "GLM API"),
+                  ("Ya", "YandexGPT"), ("Gc", "GigaChat"), ("Qw", "Qwen3 local")]),
+    ("Retrieval & ML", [("Rg", "RAG"), ("Ch", "ChromaDB"), ("Em", "Embeddings"), ("Cb", "CatBoost LTR"),
+                        ("Oc", "OCR")]),
+    ("Backend", [("Py", "Python"), ("Fa", "FastAPI"), ("Ss", "SSE"), ("Ce", "Celery"), ("Ap", "APScheduler"),
+                 ("Pg", "PostgreSQL"), ("Rd", "Redis"), ("Sq", "SQLAlchemy"), ("Al", "Alembic"), ("Pt", "pytest")]),
+    ("Automation", [("Pw", "Playwright"), ("Af", "Apify"), ("Ag", "aiogram"), ("N8", "n8n")]),
     ("Frontend", [("Ts", "TypeScript"), ("Re", "React"), ("Nx", "Next.js"), ("Vi", "Vite"), ("Tw", "Tailwind")]),
     ("Mobile", [("C#", "C#"), ("Ma", ".NET MAUI")]),
-    ("Infra", [("Dk", "Docker"), ("Ng", "nginx"), ("Cd", "Caddy"), ("Ga", "GitHub Actions"), ("Lx", "Linux")]),
+    ("Infra", [("Dk", "Docker"), ("Ng", "nginx"), ("Cd", "Caddy"), ("Ga", "GitHub Actions"), ("Cf", "Cloudflare Tunnel"),
+               ("Lx", "Linux")]),
 ]
 
 

@@ -156,7 +156,7 @@ At hackathons I lead the team or take frontend, backend or mobile.
   <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/stack-m-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
-  <img src="assets/stack-light.svg" alt="Stack: AI/agents, backend, frontend, mobile, infra" width="100%">
+  <img src="assets/stack-light.svg" alt="Stack: agent engineering, LLM APIs, retrieval and ML, backend, automation, frontend, mobile, infra" width="100%">
 </picture>
 
 <br>
