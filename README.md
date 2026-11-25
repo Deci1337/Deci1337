@@ -1,288 +1,190 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0000,50:7b1a2a,100:4a0010&height=180&section=header&text=Arseniy%20%2F%20Deci1337&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Agents%20%7C%20Automation%20%7C%20Developer&descAlignY=52&descSize=16" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B1A2A&center=true&vCenter=true&width=560&lines=AI+Agent+Developer;Automation+%26+n8n+Expert;Python+%2F+C%23+%2F+React;Building+cool+things+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/header-m-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/header-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" alt="Arseniy (Deci1337): fullstack developer, AI agents, agent orchestration" width="100%">
+</picture>
 
-<br/>
+<br>
 
-<div align="center">
-  <a href="https://t.me/unrealveliky">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:deci.leet@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Deci1337">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br/>
-
-
-
-
-
-
-
-<div align="center">
-  <img src="vibecode.svg" alt="VIBECODE SENIOR+" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="money-counter.svg" alt="Money Counter" />
-</div>
-
-<br/>
-
----
-
-## 🧠 About Me
-
-```python
-class Arseniy:
-    name      = "Arseniy"
-    alias     = "Deci1337"
-    focus     = "ИИ-агенты для внутреннего контура/мебельного производства"
-    motto     = "Be patient and everything will come."
-    top-3     = ["AI Agents", "Automation", "Hackathons"]
-    languages = ["Python", "C#", "C++", "JavaScript", "Lua", "HTML", "XAML", "XML"]
-    tools     = ["n8n", "RAG", "OpenAI", "Claude (of course)", "DeepSeek", "JAX", "Playwright", "Certbot", "WireGuard", "nginx", "OpenSERP", "firecrawl ", "YandexGPT", "GigaChat", "MAUI", "Docker", "React", "Node.js".....]
-    interests = ["AI for Business", "Process Automation", "Applied ML"]
-```
-
-> 🇷🇺 Делаю ИИ-агентов бизнесам. И да, я убеждён, что будущее за ними. НЕ стартапер и НЕ пустышка с клодом.
-> Я работаю в B2B, и давно привык отвечать за результат, а не продавать воздух. Девиз: качество == успех.
-> Веду социальные сети, меня можно найти везде по тегу: @ Deci1337
-
-> 🇬🇧 I build AI agents for businesses. Convinced the next decade belongs to them.
-> B2B-focused — I've been in it long enough to know the difference between selling results and selling promises.
-> Entrepreneur by nature, developer by trade. Active on social media, big on soft skills — they matter more in tech than people admit.
-> Find me: @ Deci1337
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-
-**Frameworks & Tools**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**AI Models & APIs**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![YandexGPT](https://img.shields.io/badge/YandexGPT-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
-![GigaChat](https://img.shields.io/badge/GigaChat-21A038?style=for-the-badge&logo=sber&logoColor=white)
-![MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<p align="center">
+<a href="https://t.me/Deci1337"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-telegram-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/contact-telegram-light.svg">
+  <img src="assets/contact-telegram-light.svg" alt="Telegram" height="44">
+</picture></a>&nbsp;
+<a href="https://t.me/unrealveliky"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-channel-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/contact-channel-light.svg">
+  <img src="assets/contact-channel-light.svg" alt="Telegram channel" height="44">
+</picture></a>&nbsp;
+<a href="mailto:deci.leet@gmail.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-email-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/contact-email-light.svg">
+  <img src="assets/contact-email-light.svg" alt="Email" height="44">
+</picture></a>
+</p>
 
 </div>
 
----
+<br>
 
-## 🤖 AI & Automation Projects (PET projects & hackathons)
+I'm Arseniy, a fullstack developer from Moscow. I study Information Systems at NUST MISIS.
 
-### ⏰ AI, Automation
+I build AI agents for businesses: tender monitoring that reads the documents, a Telegram agent that replaced a shop's sales managers, internal assistants that answer from a company knowledge base.
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3 align="center">📧 AI Email Assistant</h3>
-      <p align="center">
-        AI assistant for processing and generating business correspondence.<br/><br/>
-        <a href="https://t.me/unrealveliky/61">
-          <img src="https://img.shields.io/badge/Demo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">💰 Finance AI Assistant</h3>
-      <p align="center">
-        Cross-platform financial AI assistant.<br/><br/>
-        <a href="https://t.me/unrealveliky/62">
-          <img src="https://img.shields.io/badge/Demo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">🔍 Smart Search (Moscow Supplier Portal)</h3>
-      <p align="center">
-        AI-powered smart search for the Moscow Supplier Portal.<br/><br/>
-        <a href="https://t.me/unrealveliky/90">
-          <img src="https://img.shields.io/badge/Demo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3">
-      <h3 align="center">🏛️ TenderHack SPB — Мониторинг цен для госзакупок (НМЦК)</h3>
-      <p align="center">
-        Параллельный парсинг WB / Ozon / ЯМ / рунета с локальной LLM-нормализацией запросов (Qwen3-4B).<br/>
-        Расчёт НМЦК через медианный алгоритм, stealth-scraping без VPN, поддержка 10 регионов.<br/>
-        Стек: Python · FastAPI · React · Node.js · Playwright · Docker<br/><br/>
-        <a href="https://github.com/Deci1337/TenderHack-SPB">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+Agents write most of my code. I write the spec, choose the architecture, review the output and ship it.
 
-### 💼 AI Agents for Business
+At hackathons I lead the team or take frontend, backend or mobile.
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛒 AI Agent — Online Shop Automation</h3>
-      <p align="center">
-        Full automation of an online store powered by an AI agent.<br/><br/>
-        <a href="https://t.me/unrealveliky/93">
-          <img src="https://img.shields.io/badge/Demo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎧 Tech Support Agent + RAG</h3>
-      <p align="center">
-        AI support agent with a knowledge base (RAG).<br/><br/>
-        <a href="https://t.me/unrealveliky/95">
-          <img src="https://img.shields.io/badge/Demo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎵 TikTok AI Agent</h3>
-      <p align="center">
-        AI agent for automating TikTok workflows.<br/><br/>
-        <img src="https://img.shields.io/badge/No%20Demo%20Yet-555555?style=for-the-badge&logoColor=white"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📢 Telegram Moderator + News Posting Agent</h3>
-      <p align="center">
-        AI moderator bot and automated news posting agent for Telegram.<br/><br/>
-        <img src="https://img.shields.io/badge/No%20Demo%20Yet-555555?style=for-the-badge&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
+Делаю ИИ-агентов, которые забирают у бизнеса рутину.
 
-### 👾 Other Projects
+<br>
 
-<table>
-  <tr>
-    <td width="33%">
-      <h3 align="center">🏫 Family School Website</h3>
-      <p align="center">
-        Website for a family-run school.<br/><br/>
-        <img src="https://img.shields.io/badge/No%20Demo%20Yet-555555?style=for-the-badge&logoColor=white"/>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">🎮 Skin Changer (Reverse Eng.)</h3>
-      <p align="center">
-        Skin changer built via reverse engineering.<br/><br/>
-        <a href="https://t.me/unrealveliky/74">
-          <img src="https://img.shields.io/badge/Demo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">🔐 Offline Encrypted Messenger</h3>
-      <p align="center">
-        Messenger with encryption, relay and voice/video calls.<br/><br/>
-        <a href="https://t.me/unrealveliky/84">
-          <img src="https://img.shields.io/badge/Demo-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
-      <h3 align="center">🌐 Личный сайт — EkaterinaSovet</h3>
-      <p align="center">
-        Лендинговый сайт для практикующего психолога: запись на консультацию, портфолио.<br/><br/>
-        <img src="https://img.shields.io/badge/No%20Demo-555555?style=for-the-badge&logoColor=white"/>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">🕹️ ИИ-агент модератор анкет в TG</h3>
-      <p align="center">
-        Автоматическая модерация игровых заявок: классификация, верификация и решение о допуске.<br/><br/>
-        <img src="https://img.shields.io/badge/No%20Demo-555555?style=for-the-badge&logoColor=white"/>
-      </p>
-    </td>
-    <td width="33%">
-      <h3 align="center">📰 ИИ-агент кросспостинг новостей</h3>
-      <p align="center">
-        Мониторинг источников, рерайт под каждую площадку и автопубликация по расписанию.<br/><br/>
-        <img src="https://img.shields.io/badge/No%20Demo-555555?style=for-the-badge&logoColor=white"/>
-      </p>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/divider-work-m-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/divider-work-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-work-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-work-light.svg">
+  <img src="assets/divider-work-light.svg" alt="01 Commercial work" width="100%">
+</picture>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/work-m-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/work-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/work-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/work-light.svg">
+  <img src="assets/work-light.svg" alt="Commercial work: tender monitoring agent, Telegram sales agent, knowledge-base agents, multi-agent platform" width="100%">
+</picture>
 
-## 📊 Streak
+<sub>Client projects are under NDA, so they are described by task, not by name.</sub>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deci1337&theme=tokyonight&hide_border=true" />
-</div>
+<br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/divider-hackathons-m-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/divider-hackathons-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-hackathons-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-hackathons-light.svg">
+  <img src="assets/divider-hackathons-light.svg" alt="02 Hackathons" width="100%">
+</picture>
 
-## 🏅 GitHub Stats
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/hackathons-m-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/hackathons-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hackathons-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hackathons-light.svg">
+  <img src="assets/hackathons-light.svg" alt="Hackathons: Nuclear IT Hack (MEPhI) 4th place, TenderHack Moscow top 5, plus six more" width="100%">
+</picture>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Deci1337&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deci1337&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-</div>
+<br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/divider-projects-m-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/divider-projects-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-projects-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-projects-light.svg">
+  <img src="assets/divider-projects-light.svg" alt="03 Selected projects" width="100%">
+</picture>
 
-## 📈 Activity Graph
+<p align="center">
+<a href="https://github.com/Deci1337/TenderHackMoscow"><picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/card-tenderhack-moscow-m-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/card-tenderhack-moscow-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-tenderhack-moscow-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-tenderhack-moscow-light.svg">
+  <img src="assets/card-tenderhack-moscow-light.svg" alt="Smart procurement search" width="49%">
+</picture></a>
+<a href="https://github.com/Deci1337/MEPhI-HACK"><picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/card-mephi-hack-m-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/card-mephi-hack-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-mephi-hack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-mephi-hack-light.svg">
+  <img src="assets/card-mephi-hack-light.svg" alt="Offline P2P messenger" width="49%">
+</picture></a>
+</p>
+<p align="center">
+<a href="https://github.com/Deci1337/TenderHack-SPB"><picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/card-tenderhack-spb-m-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/card-tenderhack-spb-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-tenderhack-spb-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-tenderhack-spb-light.svg">
+  <img src="assets/card-tenderhack-spb-light.svg" alt="Price aggregator" width="49%">
+</picture></a>
+<a href="https://github.com/Deci1337/AI-business-SaintPetersburg-Case4"><picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/card-service-desk-m-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/card-service-desk-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-service-desk-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-service-desk-light.svg">
+  <img src="assets/card-service-desk-light.svg" alt="RAG service-desk bot" width="49%">
+</picture></a>
+</p>
+<p align="center">
+<a href="https://github.com/Deci1337/AI-finance-assistant"><picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/card-finance-assistant-m-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/card-finance-assistant-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-finance-assistant-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-finance-assistant-light.svg">
+  <img src="assets/card-finance-assistant-light.svg" alt="AI finance assistant" width="49%">
+</picture></a>
+<a href="https://github.com/Deci1337/TG-parser-clients"><picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/card-tg-lead-parser-m-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/card-tg-lead-parser-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-tg-lead-parser-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-tg-lead-parser-light.svg">
+  <img src="assets/card-tg-lead-parser-light.svg" alt="Telegram lead finder" width="49%">
+</picture></a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deci1337&theme=tokyo-night&hide_border=true&area=true" />
-</div>
+<sub>Video demos: <a href="https://t.me/unrealveliky/84">offline messenger</a> · <a href="https://t.me/unrealveliky/90">procurement search</a> · <a href="https://t.me/unrealveliky/62">finance assistant</a> · <a href="https://t.me/unrealveliky/61">business email assistant</a></sub>
 
----
+<br>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a0010,50:7b1a2a,100:3d0000&height=100&section=footer"/>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/divider-stack-m-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/divider-stack-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-stack-light.svg">
+  <img src="assets/divider-stack-light.svg" alt="04 Stack" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/stack-m-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/stack-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+  <img src="assets/stack-light.svg" alt="Stack: AI/agents, backend, frontend, mobile, infra" width="100%">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/divider-activity-m-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/divider-activity-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-activity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-activity-light.svg">
+  <img src="assets/divider-activity-light.svg" alt="05 Activity" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/activity-m-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/activity-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg">
+  <img src="assets/activity-light.svg" alt="Contribution heatmap and streak" width="100%">
+</picture>
+
+<br>
+
+<p align="center">
+<a href="https://t.me/Deci1337"><picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/footer-m-dark.svg">
+  <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/footer-m-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
+  <img src="assets/footer-light.svg" alt="Open to remote fullstack and AI-engineering roles. Telegram @Deci1337" width="100%">
+</picture></a>
+</p>
