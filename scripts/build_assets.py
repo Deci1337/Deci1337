@@ -163,6 +163,8 @@ def work(t):
 
 
 # ---------- hackathons ----------
+LEAD = ("HSE Vibehack 2026 · Onboarding Pro", "Top 10", "of 800+ participants",
+        "AI onboarding for new employees: a metro-map route, a mentor chat with sources", "Team Red brothers · 10.2026")
 TOP = [
     ("Nuclear IT Hack · MEPhI", "4th place", "Offline P2P messenger", "PM, frontend · 03.2026"),
     ("TenderHack Moscow", "Top 5", "Personalized procurement search", "Fullstack, ML · 04.2026"),
@@ -177,17 +179,31 @@ ROWS = [
 ]
 
 
+def lead_tile(t, w, y, pad, tag_s, proj_s):
+    tag, big, sub, proj, role = LEAD
+    if w < 600:
+        proj = proj.split(":")[0]
+    bw = sans(600).width(big, 36, -0.8)
+    check(pad + sans(400).width(proj, proj_s) < w - pad, "lead proj")
+    return [card(0, y, w, 150, t), text(mono(500), tag, pad, y + 38, tag_s, t["accent"], ls=0.3),
+            text(sans(600), big, pad - 1, y + 84, 36, t["text"], ls=-0.8),
+            text(sans(400), sub, pad + bw + 10, y + 84, 18, t["muted"]),
+            text(sans(400), proj, pad, y + 112, proj_s, t["text"]),
+            text(mono(500), role, pad, y + 134, tag_s, t["muted"], ls=0.2)]
+
+
 def hackathons(t):
     tw, th, g, rh = 410, 150, 20, 44
-    b = []
+    b = lead_tile(t, W, 0, 28, 12, 16)
     for i, (tag, big, proj, role) in enumerate(TOP):
         x = i * (tw + g)
-        b += [card(x, 0, tw, th, t),
-              text(mono(500), tag, x + 28, 38, 12, t["accent"], ls=0.3),
-              text(sans(600), big, x + 27, 84, 36, t["text"], ls=-0.8),
-              text(sans(400), proj, x + 28, 112, 16, t["text"]),
-              text(mono(500), role, x + 28, 134, 12, t["muted"], ls=0.2)]
-    y0 = th + g
+        y = th + g
+        b += [card(x, y, tw, th, t),
+              text(mono(500), tag, x + 28, y + 38, 12, t["accent"], ls=0.3),
+              text(sans(600), big, x + 27, y + 84, 36, t["text"], ls=-0.8),
+              text(sans(400), proj, x + 28, y + 112, 16, t["text"]),
+              text(mono(500), role, x + 28, y + 134, 12, t["muted"], ls=0.2)]
+    y0 = 2 * (th + g)
     lh = len(ROWS) * rh + 12
     b.append(card(0, y0, W, lh, t))
     for k, (date, ev, proj, role) in enumerate(ROWS):
@@ -201,7 +217,7 @@ def hackathons(t):
               text(sans(500), ev, 128, base, 15, t["text"]),
               text(sans(400), proj, 380, base, 14, t["muted"]),
               text(mono(500), role, W - 28, base, 12, t["accent"], ls=0.2, anchor="end")]
-    label = "Hackathons: Nuclear IT Hack (MEPhI) 4th place; TenderHack Moscow top 5; " + \
+    label = "Hackathons: HSE Vibehack 2026 (Onboarding Pro) top 10 of 800+; Nuclear IT Hack (MEPhI) 4th place; TenderHack Moscow top 5; " + \
         "; ".join(f"{r[1]} ({r[0]}): {r[2]}, {r[3]}" for r in ROWS)
     return svg(W, y0 + lh, "".join(b), label)
 
@@ -333,14 +349,14 @@ def work_m(t):
 
 def hackathons_m(t):
     th, g, rh = 150, 16, 86
-    b = []
+    b = lead_tile(t, MW, 0, 24, 13, 15)
     for i, (tag, big, proj, role) in enumerate(TOP):
-        y = i * (th + g)
+        y = (i + 1) * (th + g)
         b += [card(0, y, MW, th, t), text(mono(500), tag, 24, y + 38, 13, t["accent"], ls=0.3),
               text(sans(600), big, 23, y + 84, 36, t["text"], ls=-0.8),
               text(sans(400), proj, 24, y + 112, 17, t["text"]),
               text(mono(500), role, 24, y + 134, 13, t["muted"], ls=0.2)]
-    y0 = 2 * (th + g)
+    y0 = 3 * (th + g)
     lh = len(ROWS) * rh + 8
     b.append(card(0, y0, MW, lh, t))
     for k, (date, ev, proj, role) in enumerate(ROWS):
@@ -351,7 +367,7 @@ def hackathons_m(t):
               text(mono(500), date, MW - 24, y + 30, 13, t["muted"], anchor="end"),
               text(sans(400), proj, 24, y + 54, 15, t["muted"]),
               text(mono(500), role, 24, y + 74, 13, t["accent"], ls=0.2)]
-    label = "Hackathons: Nuclear IT Hack (MEPhI) 4th place; TenderHack Moscow top 5; " +         "; ".join(f"{r[1]} ({r[0]}): {r[2]}, {r[3]}" for r in ROWS)
+    label = "Hackathons: HSE Vibehack 2026 (Onboarding Pro) top 10 of 800+; Nuclear IT Hack (MEPhI) 4th place; TenderHack Moscow top 5; " +         "; ".join(f"{r[1]} ({r[0]}): {r[2]}, {r[3]}" for r in ROWS)
     return svg(MW, y0 + lh, "".join(b), label)
 
 

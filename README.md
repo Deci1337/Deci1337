@@ -77,7 +77,7 @@ At hackathons I lead the team or take frontend, backend or mobile.
   <source media="(prefers-color-scheme: light) and (max-width: 600px)" srcset="assets/hackathons-m-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/hackathons-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hackathons-light.svg">
-  <img src="assets/hackathons-light.svg" alt="Hackathons: Nuclear IT Hack (MEPhI) 4th place, TenderHack Moscow top 5, plus six more" width="100%">
+  <img src="assets/hackathons-light.svg" alt="Hackathons: HSE Vibehack 2026 top 10 of 800+, Nuclear IT Hack (MEPhI) 4th place, TenderHack Moscow top 5, plus six more" width="100%">
 </picture>
 
 <br>
